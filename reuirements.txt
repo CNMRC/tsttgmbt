@@ -1,0 +1,7 @@
+openweathermapy==0.6.6
+pipreqs==0.4.9
+pyowm==2.10.0
+python-telegram-bot==11.1.0
+requests==2.22.0
+telebot==0.0.3
+
